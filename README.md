@@ -1,6 +1,7 @@
 ## Olá, eu sou a Jady ! ❤️
 
-🖥️ 🖱️ Desenvolvedora Web, em Formação.
+🖥️ 🖱️ Desenvolvedora Web.
+
 
 <div align="center">
   <a href="https://github.com/JadyLinnit">
