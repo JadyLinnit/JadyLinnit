@@ -1,4 +1,4 @@
-## Olá, eu sou a Jady ! 🤍
+## Olá, eu sou a Jady 🤍
 
 💻🖱️ Desenvolvedora Web Full Stack.
 
