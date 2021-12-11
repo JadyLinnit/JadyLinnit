@@ -6,7 +6,7 @@
 
 <div align="center">
   <a href="https://github.com/JadyLinnit">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JadyLinnit&show_icons=true&theme=panda&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JadyLinnit&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img align="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JadyLinnit&layout=compact&langs_count=7&theme=panda"/>
   <img src="https://user-images.githubusercontent.com/90793903/141857629-4e285a97-55f1-46bf-823f-fc4ec9ce5e24.gif" align="right" width="160" height="160"></img>
 </div>
